@@ -1,8 +1,8 @@
 # Project template
 - layout: top-middle
   name: Capstone Project
-  link: https://github.com/s-cb/Betterflye-Content-Management-System
-  github: Github page for project
+  #link: https://github.com/s-cb/Betterflye-Content-Management-System
+  github: https://github.com/s-cb/Betterflye-Content-Management-System
   quote: >
     Betterflye LLC Content Management System
   description: | # this will include new lines to allow paragraphs
@@ -11,4 +11,5 @@
     This ensures that our client can be confident that the content on the website is clean and family-friendly. 
     Creating an environment that is welcoming to all users is paramount to the Betterflye team,
     and our content management system enables the team to do so.
-    Languages: <mark>PHP</mark><mark>JavaScript</mark><mark>HTML</mark><mark>CSS</mark>
+    |
+    Languages: <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark>

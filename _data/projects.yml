@@ -11,5 +11,7 @@
     This ensures that our client can be confident that the content on the website is clean and family-friendly. 
     Creating an environment that is welcoming to all users is paramount to the Betterflye team,
     and our content management system enables the team to do so.
+    
+    project_images: images/filterTest.png
    
     Languages: <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark>

@@ -3,16 +3,15 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-cv   : "resume.pdf"
+name: Daniel Spencer
+title: Student
+email: ddspencer@bsu.edu
+phone: 1(219)-730-8639
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  moya10
+github_username:  dxnxxl
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -25,16 +24,10 @@ github_username:  moya10
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/stairs-2.gif
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
-
+  Hello, my name is Daniel Spencer. I am from Munster, IN and am currently a senior at Ball State University. 
+  
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -47,9 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Interests
 
 # Footer
 footer_show_references: true

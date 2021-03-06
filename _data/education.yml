@@ -15,6 +15,7 @@
   quote: >
     Public University located in Muncie,IN
   description: | # this will include new lines to allow paragraphs
+  text: >
     	- GPA: 3.6
 	    - Dean’s List: Fall 2016, Spring 2017, Fall 2017, Summer 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020
 	    - National Cyber League (Fall 2018): Ranked in the Top 30% overall, Top 10% in Cryptography, Top 13% in Open Source Intelligence

@@ -42,11 +42,9 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Hobbies
   
-  Music production/Audio Engineering
-  
-	Analog/Digital Photography
-
-	Cryptocurrency
+  - Music production/Audio Engineering
+	- Analog/Digital Photography
+	- Cryptocurrency
 
   
   

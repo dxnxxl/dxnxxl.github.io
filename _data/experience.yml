@@ -1,10 +1,43 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Region Detailing
+  job_title: Owner
+  dates: May 2019 - Present
+  quote: >
+   Founded by my friend and I
+  description: | # this will include new lines to allow paragraphs
+    Detailed cars
+    Website is under construction and in the process of being updated
+    
+    
+- layout: left
+  company: First Savings Bank of Hegewisch
+  link: https://www.fsbhegewisch.com/
+  job_title: Bank Teller
+  dates: May 2017 - August 2018
+  quote: >
+   Dyer, IN
+  description: | # this will include new lines to allow paragraphs
+   Maintained confidentiality of bank records and client information; Complied with government laws and regulations; Adhered to institution security procedures; Looked out for/identified social engineering attacks
+   Processed standard transactions (deposit, withdraw, check cashing, wire transfers, etc.
+   Processed client transactions efficiently and accurately; Analyzed and solved client problems
+
+    
+- layout: left
+  company: Munster Parks & Recreation
+  job_title: Maintenance Worker
+  dates: June 2016 - August 2016
+  quote: >
+   Munster, IN
+  description: | # this will include new lines to allow paragraphs
+    Maintained/repaired water supply network; Ensured sanitary standards were met; Event preparation and execution
+    
+    
+- layout: left
+  company: Krazy Kaplans Fireworks
+  job_title: Floor Worker
+  dates: May 2016 - June 2016
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Assisted Customers; Organized shelves

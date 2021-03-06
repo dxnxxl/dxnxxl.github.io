@@ -1,7 +1,8 @@
 # Project template
 - layout: top-middle
   name: Capstone Project
-  #link: https://github.com/s-cb/Betterflye-Content-Management-System
+  description: Link to Documentation Images
+  link: https://github.com/s-cb/Betterflye-Content-Management-System/blob/master/Documentation/User.md
   github: s-cb/Betterflye-Content-Management-System
   quote: >
     Betterflye LLC Content Management System
@@ -14,6 +15,3 @@
     
    
     Languages: <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark>
-
-    
-  link: Documentation Images https://github.com/s-cb/Betterflye-Content-Management-System/blob/master/Documentation/User.md

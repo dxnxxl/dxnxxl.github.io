@@ -7,6 +7,7 @@
    Founded by my friend and I
   description: | # this will include new lines to allow paragraphs
     Detailed cars
+    
     Website is under construction and in the process of being updated
     
     
@@ -18,9 +19,19 @@
   quote: >
    Dyer, IN
   description: | # this will include new lines to allow paragraphs
-   Maintained confidentiality of bank records and client information; Complied with government laws and regulations; Adhered to institution security procedures; Looked out for/identified social engineering attacks
-   Processed standard transactions (deposit, withdraw, check cashing, wire transfers, etc.
-   Processed client transactions efficiently and accurately; Analyzed and solved client problems
+   Maintained confidentiality of bank records and client information
+   
+   Complied with government laws and regulations
+   
+   Adhered to institution security procedures
+   
+   Looked out for/identified social engineering attacks
+   
+   Processed standard transactions (deposit, withdraw, check cashing, wire transfers, etc.)
+   
+   Processed client transactions efficiently and accurately
+   
+   Analyzed and solved client problems
 
     
 - layout: left
@@ -30,7 +41,9 @@
   quote: >
    Munster, IN
   description: | # this will include new lines to allow paragraphs
-    Maintained/repaired water supply network; Ensured sanitary standards were met; Event preparation and execution
+    Maintained/repaired water supply network
+    
+    Ensured sanitary standards were met; Event preparation and execution
     
     
 - layout: left
@@ -40,4 +53,6 @@
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Assisted Customers; Organized shelves
+    Assisted Customers
+    
+    Organized shelves

@@ -14,3 +14,18 @@
     
    
     Languages: <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark>
+    
+    
+    
+    
+    
+  name: Spotify Streamer
+  github: dxnxxl/Spotify-Streamer
+  description: | # this will include new lines to allow paragraphs
+    User is able to search for a song, an artist, an album, or get song recommendations based on user input. 
+    For example, if the user searched “Johnny Cash,” after hitting the “Search For Music” button, a table 
+    displays the returned data from the Spotify API. When selecting a song, the user can hit the “Play” button
+    at the bottom and is then taken to Spotify’s website, where a 30 second sample of the selected song is played.
+    
+   
+    Languages: <mark>Java</mark>

@@ -12,6 +12,6 @@
     Creating an environment that is welcoming to all users is paramount to the Betterflye team,
     and our content management system enables the team to do so.
     
-p_images: images/stairs-2.gif
+  p_images: images/stairs-2.gif
    
-    Languages: <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark>
+  Languages: <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark>

@@ -1,6 +1,6 @@
 # Project template
 - layout: top-middle
-  name: Capstone Project
+  name: Capstone Project (Images in Link)
   link: https://github.com/s-cb/Betterflye-Content-Management-System/blob/master/Documentation/User.md
   github: s-cb/Betterflye-Content-Management-System
   quote: >
@@ -29,3 +29,32 @@
     
    
     Languages: <mark>Java</mark>
+    
+    
+    
+    
+- layout: top-middle    
+  name: Transcriber
+  github: dxnxxl/Transcriber
+  description: | # this will include new lines to allow paragraphs
+    For this project, I combined my knowledge of Spanish phonetics with Computer Science. This program transcribes 
+    the user’s Spanish input into a selected Spanish dialect (Dialect options are Chile, Northern/Central Spain, 
+    Argentina/Uruguay, and the Caribbean). This program is useful because it allows someone to understand how to pronounce 
+    Spanish words based on the selected region. For example, in Chile, it is common to not pronounce the letter /s/ at the end 
+    of words. However, in Northern and Central Spain, this omission does not exist. This program takes these regional features into account. 
+    
+   
+    Languages: <mark>Java</mark>
+    
+    
+    
+    
+- layout: top-middle    
+  name: Abandoned Building Finder (In Progress)
+  github: dxnxxl/Abandoned-Building-Finder
+  description: | # this will include new lines to allow paragraphs
+    The goal of this project was to use the Google Maps API to display pinpoints of abandoned buildings on a Google Map within a 
+    5 mile radius of the user’s location.  
+    
+   
+    Languages: <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark>
